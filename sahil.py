@@ -1,4 +1,4 @@
-CREATOR = "This File Is Made By @SahilModzOwner" #DON'T CHANGE THIS WARNA ERROR AYEGA 100%
+CREATOR = "This File Is Made By @SahilModsOwner" #DON'T CHANGE THIS WARNA ERROR AYEGA 100%
 import hashlib
 import os
 import telebot
@@ -11,7 +11,7 @@ from threading import Thread
 loop = asyncio.get_event_loop()
 
 # Bot token
-TOKEN = '7567349538:AAGGbKwhNS2a3PA586_jY_B0lAjNGGjg-l4'
+TOKEN = '6925542732:AAFxECDF8MyrhscC0BXjv-Lyx71MQAegEto'
 bot = telebot.TeleBot(TOKEN)
 REQUEST_INTERVAL = 1
 
